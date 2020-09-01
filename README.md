@@ -1,2 +1,2 @@
 # learn_git_github
-this is just created for learning purpose
+I am editing this readme file. adding some more details about the project description.
